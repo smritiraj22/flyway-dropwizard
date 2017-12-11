@@ -1,0 +1,1 @@
+INSERT INTO BUSINESS(ID, business_name,business_type) VALUES(1, 'banking','finance')
